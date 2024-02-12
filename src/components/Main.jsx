@@ -6,13 +6,13 @@ import Logo from '/images/Logo.jpg'
 const Main = () => {
   return (
     <div>
-        <div className='flex justify-around'>
-          <img className='max-w-[100px]' src={Hannah} alt="" />
-          <img className='max-w-[100px]' src={Logo} alt="" />
+        <div className='flex flex-col-reverse items-center'>
+          <img className='max-w-[200px]' src={Hannah} alt="" />
+          <img className='max-w-[200px]' src={Logo} alt="" />
         </div>
 
         <div className='flex items-center'>
-            <img className='max-w-[200px]' src={Product} alt="" />
+            <img className='block mx-auto max-w-[200px]' src={Product} alt="" />
         </div>
         
         <div className='flex flex-col
