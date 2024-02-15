@@ -1,6 +1,6 @@
 # Bean's Board & Bites
 <!-- ![Relative](/public/imgs/SweetTreatVixen.gif) -->
-<img src="./public/imgs/SweetTreatVixenAirTableFinal.gif" width="100%" alt="#"/>
+<img src="./public/images/Hannah.png" width="100%" alt="#"/>
 - npm create vite@latest .
 
 ***To Install Tailwind***
