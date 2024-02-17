@@ -1,4 +1,5 @@
 import React from 'react'
+import favicon from '/images/profileFavicon1.png'
 
 const Footer = () => {
   return (
