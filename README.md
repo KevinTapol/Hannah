@@ -18,3 +18,5 @@
 
 Install React Icons, Type Animation and Intersection Observer
 - npm i react-icons react-type-animation react-intersection-observer
+
+changing push location
